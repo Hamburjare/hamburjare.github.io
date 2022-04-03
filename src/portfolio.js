@@ -45,6 +45,17 @@ const projects = [
     livePreview: 'https://github.com',
   },
 ]
+const certificates = [
+  // certificates can be added an removed
+  // if there are no certificates, Certificates section won't show up
+  {
+    name: 'Unity Junior Programmer',
+    photo: "https://images.credly.com/size/340x340/images/28f94e97-1ac3-46cb-9384-e9c44f95758d/00-Junior_Programmer-Pathway.png",
+    time:
+      'April 02, 2022',
+    link: 'https://www.credly.com/badges/0bc5dbd8-00d7-40e1-8b02-74cd89e1739c/public_url',
+  },
+]
 
 const skills = [
   // skills can be added or removed
@@ -65,7 +76,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'kalle.suikkari@gmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, certificates, skills, contact }
