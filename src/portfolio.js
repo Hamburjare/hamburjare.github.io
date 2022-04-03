@@ -9,7 +9,7 @@ const about = {
   name: 'Kalle Suikkari',
   role: 'Game Developer Student',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    `I'm 17 years old and I'm studying game development in Helsinki, Finland. I've always been interested in computers and games and how they work. At the moment I'm trying my best to become a better programmer.`,
   resume: '',
   social: {
     linkedin: 'https://www.linkedin.com/in/kalle-suikkari-1b89a2234/',
@@ -40,7 +40,7 @@ const projects = [
     name: 'Kurpitsapoika',
     description:
       '(Game is Finnish only) Someone has torn up the Pumpkin Pie recipe from Pumpkin Boy and scattered the pieces all over the game world. Help him find the missing pieces of the recipe. Be quick!',
-    stack: ['Unity', 'C#', 'Tiled'],
+    stack: ['Unity 2D', 'C#', 'Tiled'],
     sourceCode: '',
     livePreview: 'https://play.unity.com/mg/other/kurpitsapoika-1',
   },
