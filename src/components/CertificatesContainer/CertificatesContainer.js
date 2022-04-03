@@ -2,7 +2,7 @@ import LaunchIcon from '@material-ui/icons/Launch'
 import './CertificatesContainer.css'
 
 const CertificatesContainer = ({ certificate }) => (
-  <div className='certificate'>
+  <div className='certificate btn--plain'>
     <h3>{certificate.name}</h3>
 
     <a href={certificate.link} target='_blank' rel='noopener noreferrer'>

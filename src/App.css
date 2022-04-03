@@ -15,11 +15,11 @@
 }
 
 .dark {
-  --clr-bg: #23283e;
-  --clr-bg-alt: #2a2f4c;
-  --clr-fg: #bdbddd;
-  --clr-fg-alt: #cdcdff;
-  --clr-primary: #90a0d9;
+  --clr-bg: #030217;
+  --clr-bg-alt: #090A1D;
+  --clr-fg: #CDCDFF;
+  --clr-fg-alt: #CDCDFF;
+  --clr-primary: #807AE8;
   --shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
     rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
@@ -97,6 +97,7 @@ main {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border-radius: 10px ;
 }
 
 .btn--outline:hover,
@@ -126,6 +127,7 @@ main {
   background-color: var(--clr-bg-alt);
   box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
   border: 0;
+  border-radius: 10px;
 }
 
 .btn--plain:hover {
