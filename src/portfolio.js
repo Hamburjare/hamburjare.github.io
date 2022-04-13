@@ -12,7 +12,7 @@ const about = {
     `I'm 17 years old and I'm studying game development in Helsinki, Finland. I've always been interested in computers and games and how they work. At the moment I'm trying my best to become a better programmer.`,
   resume: '',
   social: {
-    linkedin: 'https://www.linkedin.com/in/kalle-suikkari-1b89a2234/',
+    linkedin: 'https://www.linkedin.com/in/kallesuikkari/',
     github: 'https://github.com/Hamburjare',
   },
 }
@@ -60,11 +60,17 @@ const certificates = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'Unity Programming',
+  'Application Debugging',
+  'Application Prototyping',
+  'Code Development & Testing',
+  'Code Optimization',
+  'Gameplay Programming',
+  'User Interface Programming',
+  'C#',
   'HTML',
   'CSS',
   'JavaScript',
-  'C#',
-  'Unity',
   'Python',
   'Microsoft Word',
   'Microsoft PowerPoint',
