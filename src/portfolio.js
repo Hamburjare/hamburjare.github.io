@@ -21,15 +21,26 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Programming Theory Project',
+    name: 'Personal Project #1',
+    tutorial: 'My first project from scratch',
     description:
-      'The idea of the game is to survive as long as possible by shooting at the boxes you come across, the boxes do different amounts of damage and move at different speeds. The time of the longest survivor is displayed on the scoreboard which can be found on the start screen',
-    stack: ['C#', 'Unity'],
+      'The project was done during the Unity Create With Code Lab course. The project includes everything I learned during the Create With Code course. The project was planned from pre-production to post-production.',
+    stack: ['C#', 'Unity 3D'],
+    sourceCode: 'https://github.com/Hamburjare/Unity-Create-With-Code-Lab',
+    livePreview: 'https://play.unity.com/mg/other/create-with-code-lab',
+  },
+  {
+    name: 'Personal Project #2',
+    tutorial: 'My second project from scratch',
+    description:
+      'Note this is only a prototype. The project is the final work of the Unity Junior Programmer pathway. The project will show all the things I learned during that pathway. The project had used everything I know about project management',
+    stack: ['C#', 'Unity 3D'],
     sourceCode: 'https://github.com/Hamburjare/Programming-Theory-Project',
     livePreview: 'https://play.unity.com/mg/other/programming-theory-project-3',
   },
   {
     name: 'Ruby Adventure',
+    tutorial: 'Unity Learn Project',
     description:
       'A town is in peril after their friendly robots become broken! Its Rubys quest to fix them!',
     stack: ['C#', 'Unity 2D'],
@@ -38,10 +49,11 @@ const projects = [
   },
   {
     name: 'Kurpitsapoika',
+    tutorial: 'Guided School Project',
     description:
       '(Game is Finnish only) Someone has torn up the Pumpkin Pie recipe from Pumpkin Boy and scattered the pieces all over the game world. Help him find the missing pieces of the recipe. Be quick!',
     stack: ['Unity 2D', 'C#', 'Tiled'],
-    sourceCode: '',
+    sourceCode: 'https://github.com/Hamburjare/bumpginboi',
     livePreview: 'https://play.unity.com/mg/other/kurpitsapoika-1',
   },
 ]

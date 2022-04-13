@@ -7,6 +7,10 @@ const ProjectContainer = ({ project }) => (
   <div className='project btn--plain'>
     <h3>{project.name}</h3>
 
+    {project.tutorial && (
+      <h4 className="tutorial">{project.tutorial}</h4>
+    )}
+
     <p className='project__description'>{project.description}</p>
     {project.stack && (
       <ul className='project__stack'>
