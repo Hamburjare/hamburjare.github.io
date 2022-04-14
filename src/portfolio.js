@@ -10,7 +10,7 @@ const about = {
   role: 'Game Developer Student',
   description:
     `I'm 17 years old and I'm studying game development in Helsinki, Finland. I've always been interested in computers and games and how they work. At the moment I'm trying my best to become a better programmer.`,
-  resume: '',
+  resume: 'https://drive.google.com/file/d/1F8ARAXib3ZWQoioeWyudhO90foVVzXi4/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/kallesuikkari/',
     github: 'https://github.com/Hamburjare',
