@@ -6,7 +6,7 @@ const CertificatesContainer = ({ certificate }) => (
     <h3>{certificate.name}</h3>
 
     <a href={certificate.link} target='_blank' rel='noopener noreferrer'>
-      <img src={certificate.photo} alt=''/>
+      <img className= "certificatePhoto" src={certificate.photo} alt=''/>
     </a>
 
     <p className='certificate__time'>{certificate.time}</p>
