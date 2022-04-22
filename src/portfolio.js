@@ -67,6 +67,13 @@ const certificates = [
       'April 02, 2022',
     link: 'https://www.credly.com/badges/0bc5dbd8-00d7-40e1-8b02-74cd89e1739c/public_url',
   },
+  {
+    name: 'Unity Essentials Pathway',
+    photo: "https://images.credly.com/size/340x340/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png",
+    time:
+      'April 22, 2022',
+    link: 'https://www.credly.com/badges/54e29f50-ba7c-444c-ba8f-ca6697edcb3a/public_url',
+  },
 ]
 
 const skills = [
