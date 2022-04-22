@@ -75,7 +75,7 @@ const certificates = [
     link: 'https://www.credly.com/badges/54e29f50-ba7c-444c-ba8f-ca6697edcb3a/public_url',
   },
   {
-    name: 'Unity Creative Core',
+    name: 'Unity Creative Core Pathway',
     photo: "https://images.credly.com/size/340x340/images/880a7eb7-18ac-49c5-bd66-4301847b94ba/Badge1_Master.png",
     time:
       'Coming Soon',
