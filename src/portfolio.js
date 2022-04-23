@@ -78,7 +78,7 @@ const certificates = [
     name: 'Unity Creative Core Pathway',
     photo: "https://images.credly.com/size/340x340/images/880a7eb7-18ac-49c5-bd66-4301847b94ba/Badge1_Master.png",
     time:
-      'Coming Soon',
+      'In Progress',
     link: '',
   },
 ]
