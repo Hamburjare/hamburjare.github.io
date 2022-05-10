@@ -39,6 +39,15 @@ const projects = [
     livePreview: 'https://play.unity.com/mg/other/programming-theory-project-3',
   },
   {
+    name: 'Independent project',
+    tutorial: 'Creative-Core final Project',
+    description:
+      'Project contains everything what I learned while doing Unity Creative-Core. Shaders, Materials, Lighting, Animation, VFX, Cameras, Post-processing, Audio and UI',
+    stack: ['Unity 3D'],
+    sourceCode: 'https://github.com/Hamburjare/MilitaryBase',
+    livePreview: 'https://play.unity.com/mg/other/luovaydintehtava',
+  },
+  {
     name: 'Ruby Adventure',
     tutorial: 'Unity Learn Project',
     description:
@@ -78,8 +87,8 @@ const certificates = [
     name: 'Unity Creative Core Pathway',
     photo: "https://images.credly.com/size/340x340/images/880a7eb7-18ac-49c5-bd66-4301847b94ba/Badge1_Master.png",
     time:
-      'In Progress',
-    link: '',
+      'May 8, 2022',
+    link: 'https://www.credly.com/badges/b83d9e71-b3f7-402a-b18f-5959777156de/public_url',
   },
 ]
 
