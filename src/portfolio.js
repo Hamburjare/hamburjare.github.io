@@ -87,7 +87,7 @@ const certificates = [
     name: 'Unity Creative Core Pathway',
     photo: "https://images.credly.com/size/340x340/images/880a7eb7-18ac-49c5-bd66-4301847b94ba/Badge1_Master.png",
     time:
-      'May 8, 2022',
+      'May 10, 2022',
     link: 'https://www.credly.com/badges/b83d9e71-b3f7-402a-b18f-5959777156de/public_url',
   },
 ]
